@@ -9,6 +9,7 @@ body {
 
 h1 {
     border: 5px solid blue;
+    background-color: magenta;
     padding: 0px;
     margin: 0px 0px 10px 0px;
     text-align: center;
@@ -57,6 +58,7 @@ h1 {
 
 .container-2 {
     border: 5px solid red;
+    background-color: yellow;
     margin: 10px;
     grid-column: content-left / content-left;
     grid-row: 2 / 2;
@@ -64,6 +66,7 @@ h1 {
 
 .container-3 {
     border: 5px solid red;
+    background-color: yellowgreen;
     margin: 10px;
     grid-column: content-right / content-right;
     grid-row: 1 / 3;
